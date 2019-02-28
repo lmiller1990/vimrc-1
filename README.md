@@ -1,2 +1,2 @@
 # .vimrc
-My .vimrc file! Pretty self-explanatory, as was this sentence.
+The .vimrc file I use for general development. Copy it into your home directory.
