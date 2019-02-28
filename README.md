@@ -1,2 +1,2 @@
 # .vimrc
-My .vimrc folder! Pretty self-explanatory, as was this sentence.
+My .vimrc file! Pretty self-explanatory, as was this sentence.
